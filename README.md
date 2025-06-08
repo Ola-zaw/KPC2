@@ -20,7 +20,8 @@ Aby uruchomić program, użyj pliku **`KPC-2-project.ipynb`**.
 - `numpy`  
 - `matplotlib`  
 - `py3Dmol`  
-- `openbabel`  
+- `openbabel`
+- `smina` do dokowania
 - `json`, `os`, `glob`, `csv` *(standardowe moduły Pythona)*
 
 **Uwaga**: W repozytorium znajdują się również pliki wynikowe, takie jak `merged_affinities.txt`, które umożliwiają odtworzenie kluczowych kroków bez potrzeby generowania tysięcy plików ponownie.
