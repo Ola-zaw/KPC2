@@ -1,4 +1,4 @@
-# 🔬 Inhibitory KPC-2 – analiza wstępna
+# 🔬 Inhibitory KPC-2
 
 W projekcie skupiłyśmy się na enzymie **KPC-2** 🧪, odpowiedzialnym za rozkład β-laktamów i rozwój oporności na antybiotyki. Jego działanie stanowi poważne wyzwanie kliniczne, dlatego naszym celem było znalezienie potencjalnych **inhibitorów** tego enzymu.
 
