@@ -5,7 +5,7 @@ W projekcie skupiłyśmy się na enzymie **KPC-2** 🧪, odpowiedzialnym za rozk
 ## ✅ Etapy projektu:
 
 - Stworzenie biblioteki potencjalnych inhibitorów (PubChem, ChEMBL) 
-- Dokowanie molekularne wybranych związków z enzymem KPC-2  
+- Dokowanie molekularne wybranych związków z receptorem  
 - Analiza właściwości związków za pomocą narzędzi ADMET AI  
 
 🔁 Projekt ten stanowi punkt wyjścia do dalszych analiz, takich jak symulacje dynamiki molekularnej.
